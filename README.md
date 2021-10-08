@@ -11,7 +11,6 @@ Il corso prevede due commit e una pull request, ma siete liberi di fare altri co
 ## Elenco partecipanti
 
 Inserite il vostro nome (o soprannome) qui sotto:
-jordi 
 
 Gioele Mola
 
@@ -44,6 +43,10 @@ Nicolas
 Mich
 
 giacomo marengo
+
+jordi 
+
+Davide Coratza
 
 ## FizzBuzz
 
