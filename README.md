@@ -11,8 +11,42 @@ Il corso prevede due commit e una pull request, ma siete liberi di fare altri co
 ## Elenco partecipanti
 
 Inserite il vostro nome (o soprannome) qui sotto:
-Davide Coratza
 
+Gioele Mola
+
+Mariateresa
+
+Fabrizio Perani
+
+Michele Farchetto
+
+Alessandra
+
+Chicco Chiesa
+
+Mariangela
+
+Giulia
+
+Ivan Smirnov 
+
+Ricardo chuucommie
+
+Federico Lodola
+
+Safwan Khan
+
+Luca
+
+Nicolas
+
+Mich
+
+giacomo marengo
+
+jordi 
+
+Davide Coratza
 
 ## FizzBuzz
 
