@@ -1,0 +1,26 @@
+{
+  "id": "0cdf2869-1582-4255-b4ac-82ade0780eaf",
+  "name": "Progetto 2 FizzBuzz",
+  "publisher": "EOS Solutions",
+  "version": "18.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "18.0.0.0",
+  "application": "18.0.0.0",
+  "features": ["TranslationFile"],
+  "idRanges": [
+    {
+      "from": 50501,
+      "to": 50600
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0"
+}

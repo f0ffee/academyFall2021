@@ -12,8 +12,19 @@ Il corso prevede due commit e una pull request, ma siete liberi di fare altri co
 
 Inserite il vostro nome (o soprannome) qui sotto:
 
-Mariangela
+Gioele Mola
 
+Mariateresa
+
+Fabrizio Perani
+
+Michele Farchetto
+
+Alessandra
+
+Chicco Chiesa
+
+Mariangela
 
 ## FizzBuzz
 
