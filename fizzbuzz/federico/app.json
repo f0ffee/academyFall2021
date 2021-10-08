@@ -1,0 +1,26 @@
+{
+  "id": "5f7e68e1-31d1-4cfa-b4f4-facc191e443d",
+  "name": "FizzBuzz",
+  "publisher": "Default publisher",
+  "version": "18.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "features": ["TranslationFile"],
+  "screenshots": [],
+  "platform": "18.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50030,
+      "to": 50149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0"
+}
