@@ -1,0 +1,25 @@
+{
+  "id": "b63b0d6e-0b7f-43dd-b424-8ebf2bfbbfd8",
+  "name": "FizzBuzzIS",
+  "publisher": "Default publisher",
+  "version": "18.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "18.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50100
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0"
+}
