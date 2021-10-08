@@ -1,0 +1,26 @@
+{
+  "id": "9e850d7e-bbb6-4b58-bb93-ffb4df8bfaae",
+  "name": "ALProject1",
+  "publisher": "Default publisher",
+  "version": "18.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "features": ["TranslationFile"],
+  "screenshots": [],
+  "platform": "18.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50050,
+      "to": 50200
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0"
+}
