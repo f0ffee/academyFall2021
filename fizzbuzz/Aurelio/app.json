@@ -1,0 +1,26 @@
+{
+  "id": "d74d0db0-2698-4d46-a9fd-0e1a8c285b0a",
+  "name": "6_Ottobre",
+  "publisher": "EOS Solutions",
+  "version": "18.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "features": ["TranslationFile"],
+  "screenshots": [],
+  "platform": "18.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 50030
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "7.0"
+}
