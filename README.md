@@ -11,6 +11,7 @@ Il corso prevede due commit e una pull request, ma siete liberi di fare altri co
 ## Elenco partecipanti
 
 Inserite il vostro nome (o soprannome) qui sotto:
+Gioele Mola
 
 
 
