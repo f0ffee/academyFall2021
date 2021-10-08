@@ -24,6 +24,8 @@ Alessandra
 
 Chicco Chiesa
 
+Mariangela
+
 ## FizzBuzz
 
 In questo repository, raccoglieremo le vostre soluzioni in AL a **FizzBuzz**! Scatenate la vostra fantasia: popolate una tabella, stampate un report, usate qualunque soluzione vi possa venire in mente!
